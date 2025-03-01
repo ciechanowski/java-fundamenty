@@ -1,10 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        //Jednoczesna deklaracja i inicjalizacja
-        String cake = "jabłecznik";
-        //Osobna deklaracja
-        //String cake;
-        //i inicjalizacja (przypisanie wartości)
+        var cake = "jabłecznik";
+        //Ale tak nie zadziała:
+        //var cake;
         //cake = "jabłecznik";
 
         System.out.println("Bardzo lubię " + cake);
