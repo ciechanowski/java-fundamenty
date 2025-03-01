@@ -1,9 +1,18 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Nowa linia");
-        System.out.println("To też jest w nowej linii");
+        // To jest komentarz
+        // I to też jest komentarz
 
-        System.out.print("Bez nowej ");
-        System.out.print("linii");
+        /*
+        Komentarz wieloliniowy
+        kolejna linia
+        i kolejna
+         */
+
+        /**
+         * To jest komentarz
+         * Javadoc
+         */
+
     }
 }
