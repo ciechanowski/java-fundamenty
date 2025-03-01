@@ -1,2 +1,2 @@
 # java-fundamenty
-https://testelka.pl/magik-selenium-lista-oczekujacych/
+https://edu.testelka.pl/kursy/java-fundamenty/
